@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.gif" width="100%" height="50%"/>
+<img src="assets/header.jpg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=Curious+mind.+Quiet+observer.;Hunting+threats+in+the+dark.;GRC+%7C+Blue+Team+%7C+Security+Operations;Stay+curious.+Think+like+an+attacker." alt="Void intro" />
 
