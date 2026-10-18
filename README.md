@@ -22,7 +22,7 @@
 <div align="center">
 <br/>
 
-
+</div>
 ## `> whoami`
 
 *An observer in the shadows, learning how to secure the digital world.*
