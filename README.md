@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.gif" type=waving&color=0:050816,45:052e2b,100:00ff9c&height=240&section=header&text=HELLO,%20I'M%20YOUSSEF&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=you%20can%20call%20me%20VOID%20%7C%20cybersecurity%20student&descSize=15&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="assets/header.gif" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=Curious+mind.+Quiet+observer.;Hunting+threats+in+the+dark.;GRC+%7C+Blue+Team+%7C+Security+Operations;Stay+curious.+Think+like+an+attacker." alt="Void intro" />
 
