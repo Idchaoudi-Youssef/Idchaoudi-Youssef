@@ -20,11 +20,6 @@
 
 </div>
 <div align="center">
-
-<img src="YOUR_LEFT_OWL_GIF_URL" width="130" align="left" alt="Owl perched on a branch" />
-
-<img src="YOUR_RIGHT_OWL_GIF_URL" width="130" align="right" alt="Owl perched on a branch" />
-
 <br/>
 
 ### `> whoami`
