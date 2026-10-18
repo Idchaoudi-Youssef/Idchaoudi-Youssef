@@ -25,12 +25,7 @@
 
 ## `> whoami`
 
-
 *An observer in the shadows, learning how to secure the digital world.*
-
-</div>
-
-<br clear="both"/>
 
 - 🔐 Vulnerability management and risk assessment.
 - 🛡️ Security monitoring, threat intelligence, and incident investigation.
