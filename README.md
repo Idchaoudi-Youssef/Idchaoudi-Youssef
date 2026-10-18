@@ -2,20 +2,20 @@
 
 <img src="assets/header.jpg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=Curious+mind.+Quiet+observer.;Hunting+threats+in+the+dark.;GRC+%7C+Blue+Team+%7C+Security+Operations;Stay+curious.+Think+like+an+attacker." alt="Void intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=5D6A8C&center=true&vCenter=true&width=650&lines=Curious+mind.+Quiet+observer.;Hunting+threats+in+the+dark.;GRC+%7C+Blue+Team+%7C+Security+Operations;Stay+curious.+Think+like+an+attacker." alt="Void intro" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-EXPLORING%20THE%20DIGITAL%20WILD-00ff9c?style=for-the-badge&labelColor=5D6A8C" />
+<img src="https://img.shields.io/badge/STATUS-EXPLORING%20THE%20DIGITAL%20WILD-5D6A8C?style=for-the-badge&labelColor=050816" />
 
 <br/><br/>
 
 <a href="https://github.com/Idchaoudi-Youssef?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-00ff9c?style=for-the-badge&logo=github&logoColor=5D6A8C" />
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-5D6A8C?style=for-the-badge&logo=github&logoColor=050816" />
 </a>
 
 <a href="https://github.com/Idchaoudi-Youssef">
-  <img src="https://img.shields.io/badge/OPEN%20TO-PFE%20INTERNSHIP-5D6A8C?style=for-the-badge&logo=target&logoColor=00ff9c" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-PFE%20INTERNSHIP-050816?style=for-the-badge&logo=target&logoColor=5D6A8C" />
 </a>
 
 </div>
@@ -128,7 +128,7 @@ Cybersecurity engineering student focused on **Governance, Risk & Compliance (GR
 <div align="center">
 
 <a href="https://github.com/Idchaoudi-Youssef">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Idchaoudi-Youssef&show_icons=true&hide_border=true&bg_color=5D6A8C&title_color=00FF9C&icon_color=00FF9C&text_color=E5E7EB&rank_icon=github" alt="GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Idchaoudi-Youssef&show_icons=true&hide_border=true&bg_color=050816&title_color=5D6A8C&icon_color=5D6A8C&text_color=E5E7EB&rank_icon=github" alt="GitHub statistics" />
 </a>
 
 
@@ -145,6 +145,6 @@ Cybersecurity engineering student focused on **Governance, Risk & Compliance (GR
 
 **`LEARN` · `ANALYZE` · `SECURE`**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:064e3b,100:5D6A8C&height=100&section=footer" width="100%" alt="Green cyber footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5D6A8C,50:064e3b,100:050816&height=100&section=footer" width="100%" alt="Green cyber footer" />
 
 </div>
