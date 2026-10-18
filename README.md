@@ -22,7 +22,9 @@
 <div align="center">
 <br/>
 
-### `> whoami`
+
+## `> whoami`
+
 
 *An observer in the shadows, learning how to secure the digital world.*
 
@@ -34,17 +36,6 @@
 - 🛡️ Security monitoring, threat intelligence, and incident investigation.
 - ⚙️ Security automation and practical cybersecurity projects.
 - 🎯 Seeking a final-year cybersecurity internship (**PFE**).
----
-
-## `> whoami`
-
-Cybersecurity engineering student focused on **Governance, Risk & Compliance (GRC)** and **Blue Team operations**.
-
-- 🔐 Vulnerability management and risk assessment.
-- 🛡️ Security monitoring, threat intelligence, and incident investigation.
-- ⚙️ Security automation and practical cybersecurity projects.
-- 🎯 Seeking a final-year cybersecurity internship (**PFE**).
-
 ---
 
 ## `> tech_stack`
@@ -145,6 +136,6 @@ Cybersecurity engineering student focused on **Governance, Risk & Compliance (GR
 
 **`LEARN` · `ANALYZE` · `SECURE`**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5D6A8C,50:064e3b,100:050816&height=100&section=footer" width="100%" alt="Green cyber footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5D6A8C,50:064e3b,100:d2e8f4&height=100&section=footer" width="100%" alt="Green cyber footer" />
 
 </div>
