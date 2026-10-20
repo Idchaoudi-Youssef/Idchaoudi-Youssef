@@ -1,7 +1,20 @@
+
 <div align="center">
 
-<div style="position:relative;text-align:center;color:white;font-family:monospace;padding:50px 10px;background:linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.3)),url('assets/header.jpg') center/cover no-repeat;"><h1 style="margin:0;font-size:clamp(20px,4vw,48px);">hello i am youssef idchaoudi <span style="font-size:0.5em;color:#b8c3d0;">(u can call me void)</span></h1></div>
+<div style="position: relative; width: 100%;">
+
+  <img src="assets/header.jpg" width="100%" alt="Cybersecurity header"/>
+
+  <div style="position: absolute; top: 15%; left: 0; width: 100%; text-align: center; color: white; font-family: monospace;">
+    <h1>hello i am youssef idchaoudi</h1>
+    <p>(u can call me void)</p>
+  </div>
+
+</div>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=5D6A8C&center=true&vCenter=true&width=650&lines=Curious+mind.+Quiet+observer.;Hunting+threats+in+the+dark.;GRC+%7C+Blue+Team+%7C+Security+Operations;Stay+curious.+Think+like+an+attacker." alt="Void intro" />
+
+</div>
 
 <br/>
 
