@@ -126,14 +126,17 @@
 
 ---
 
+
 ## `> connect`
 
 <div align="center">
 
 <a href="https://github.com/Idchaoudi-Youssef"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-000080?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 **`LEARN` · `ANALYZE` · `SECURE`**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5D6A8C,50:064e3b,100:d2e8f4&height=100&section=footer" width="100%" alt="Green cyber footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000080,50:191970,100:4682B4&height=100&section=footer" width="100%" alt="Navy blue cyber footer" />
 
 </div>
+
